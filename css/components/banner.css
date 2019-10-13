@@ -1,0 +1,17 @@
+.banner{
+	background-image: url(../../images/imagestudents.jpg);
+	background-size: cover;
+	padding: 150px 0px;
+}
+
+.banner h1{
+	font-size: 45px;
+	color: white;
+}
+
+.banner h2{
+	font-size: 20px;
+	color: white;
+	font-weight: lighter;
+	margin-bottom: 20px; 
+}
